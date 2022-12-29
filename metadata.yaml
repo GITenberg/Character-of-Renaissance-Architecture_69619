@@ -1,11 +1,16 @@
 _repo: Character-of-Renaissance-Architecture_69619
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69619-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Charles Herbert
     gutenberg_agent_id: '55344'
     url: http://www.gutenberg.org/2009/agents/55344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69619#Character-of-Renaissance-Architecture
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69619'
